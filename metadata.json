@@ -1,0 +1,6 @@
+{
+  "name": "Helping Hand - Local Services Marketplace",
+  "description": "Reliable local home and vehicle services marketplace with real-time tracking, verified providers, escrow payments, and operational administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
